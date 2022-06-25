@@ -3,7 +3,7 @@
 # Contributor
 - [Jiwon Jeong](https://github.com/Jiwon-Jeong99)
 - [Jisoo Seo](https://github.com/Seojisoo20191941)
-- [sunyeong Yoon](https://github.com/seonyeong Yun)
+- [sunyeong Yoon](https://github.com/yunseonyeong)
 
 
 | Week  | Date     | Lecturer      | Subject      |
