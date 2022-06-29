@@ -1,0 +1,13 @@
+img{
+    border-radius: 10px;
+    width: 100%;
+}
+p{
+    margin: 0;
+}
+.address{
+    color: rgb(116, 116, 116);
+}
+.price{
+    color: orange;
+}

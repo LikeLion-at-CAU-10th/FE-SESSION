@@ -1,0 +1,10 @@
+{
+    "products":[
+        {"id":1, "img":"img/그림1.png","title":"신세계 상품권","address":"서울 동작구 대방동","price":"90,000원"},
+        {"id":2, "img":"img/그림2.png","title":"프리즘 32인치 tv","address":"서울 동작구 대방동","price":"20,000원"},
+        {"id":3, "img":"img/그림3.png","title":"성인여성자전거","address":"대방동","price":"30,000원"},
+        {"id":4, "img": "img/그림4.png","title":"샤오미 에어램프","address":"서울","price":"30,000원"},
+        {"id":5, "img":"img/그림5.png","title":"컬쳐랜드문화상품권","address": "동작구","price": "17,000원"},
+        {"id":6, "img":"img/그림6.png","title":"롯데상품권","address": "서울시","price": "188,000원"}
+    ]
+}
