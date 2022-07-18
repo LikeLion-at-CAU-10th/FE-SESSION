@@ -2,7 +2,7 @@
 멋쟁이사자처럼 10기 프론트엔드 세션
 # Contributor
 - [Jiwon Jeong](https://github.com/Jiwon-Jeong99)
-- [Jisoo Seo](https://github.com/Seojisoo20191941)
+- [Jisoo Seo](https://github.com/seojisoosoo)
 - [Seonyeong Yun](https://github.com/yunseonyeong)
 
 
