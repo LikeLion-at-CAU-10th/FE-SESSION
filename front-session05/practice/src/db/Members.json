@@ -1,0 +1,93 @@
+[
+  {
+    "role": "호랭이선생님",
+    "memId": 1,
+    "nickname": "yuniiyuns",
+    "name": "윤선영",
+    "description": "멋사 10기 프론트 운영진"
+  },
+  {
+    "role": "호랭이선생님",
+    "memId": 2,
+    "nickname": "jjwzzy",
+    "name": "정지원",
+    "description": "멋사 10기 프론트 운영진"
+  },
+  {
+    "role": "호랭이선생님",
+    "memId": 3,
+    "nickname": "soosoo",
+    "name": "서지수",
+    "description": "멋사 10기 프론트 운영진"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 4,
+    "nickname": "momentous",
+    "name": "이서현",
+    "description": "멋사 10기 프론트 애기어흥"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 5,
+    "nickname": "harinnelody",
+    "name": "유하린",
+    "description": "멋사 10기 프론트 애기어흥"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 6,
+    "nickname": "0422",
+    "name": "이동길",
+    "description": "멋사 10기 프론트 애기어흥"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 7,
+    "nickname": "chu",
+    "name": "추교현",
+    "description": "멋사 10기 프론트 애기어흥"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 8,
+    "nickname": "freedom",
+    "name": "권민재",
+    "description": "멋사 10기 프론트 애기어흥"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 9,
+    "nickname": "yeah",
+    "name": "김나예",
+    "description": "멋사 10기 프론트 애기어흥"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 10,
+    "nickname": "agenda",
+    "name": "이의제",
+    "description": "멋사 10기 프론트 애기어흥"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 11,
+    "nickname": "hy_cho",
+    "name": "조해윤",
+    "description": "멋사 10기 프론트 애기어흥"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 12,
+    "nickname": "eoxhyn",
+    "name": "김정현",
+    "description": "멋사 10기 최고의 디자이너"
+  },
+  {
+    "role": "신흥강자",
+    "memId": 13,
+    "nickname": "suyam",
+    "name": "권수연",
+    "description": "멋사 10기 최고의 디자이너"
+  }
+]
