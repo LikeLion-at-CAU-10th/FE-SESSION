@@ -15,4 +15,7 @@
 | Week5 | 22/07/20 | Seonyeong Yun  | useEffect, Routing  |
 | Week5.5 | 22/07/27 | Seonyeong Yun  | 보충 세션  |
 | Week6 | 22/07/27 | Jisoo Seo  |  Data Fetching  |
+| Week7 | 22/08/03 | Jiwon Jeong |   |
+| Week8 | 22/08/10 | Seonyeong Yun  | |
+| Week9 | 22/08/17 | Jisoo Seo  |     |
 ---
